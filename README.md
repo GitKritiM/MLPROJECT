@@ -10,7 +10,7 @@ The project aims to predict student performance based on various academic and so
 ## 🧠 Project Overview
 
 This project demonstrates a complete Machine Learning pipeline — from data ingestion to model deployment on a web application.  
-It helps build practical skills in ML development and is perfect for showcasing in your portfolio or resume.
+It helps build practical skills in ML development.
 
 ### 🔍 Problem Statement
 
